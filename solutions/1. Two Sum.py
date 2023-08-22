@@ -7,3 +7,6 @@ class Solution:
                 return [holder[diff], i]
             else:
                 holder[n] = i
+
+# Time Complexity  => O(n)
+# Space Complexity => O(n)
