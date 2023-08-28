@@ -16,3 +16,4 @@
 |11|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| 🟢 |[Code](./solutions/191.%20Number%20of%201%20Bits.py)|O(1)|O(1)|<details>AND operation then >></details>|
 |12|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)| 🟢 |[Code](./solutions/338.%20Counting%20Bits.py)|O(n)|O(1)|<details>Use offset</details>|
 |13|[268. Missing Number](https://leetcode.com/problems/missing-number/)| 🟢 |[Code](./solutions/268.%20Missing%20Number.py)|O(n)|O(1)|<details>Use loop to save space</details>|
+|14|[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)| 🟢 |[Code](./solutions/190.%20Reverse%20Bits.py)|O(1)|O(1)|<details>bit operation</details>|
