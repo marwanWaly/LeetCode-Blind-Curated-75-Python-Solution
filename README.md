@@ -14,3 +14,4 @@
 |9|[15. 3Sum](https://leetcode.com/problems/3sum/)| 🟡 |[Code](./solutions/15.%203Sum.py)|O(n<sup>2</sup>)|O(1)|<details>Sort then two pointers inside a loop</details>|
 |10|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| 🟡 |[Code](./solutions/11.%20Container%20With%20Most%20Water.py)|O(n)|O(1)|<details>Two pointers</details>|
 |11|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| 🟢 |[Code](./solutions/191.%20Number%20of%201%20Bits.py)|O(1)|O(1)|<details>AND operation then >></details>|
+|12|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)| 🟢 |[Code](./solutions/338.%20Counting%20Bits.py)|O(n)|O(1)|<details>Use offset</details>|
