@@ -21,3 +21,4 @@
 |16|[322. Coin Change](https://leetcode.com/problems/coin-change/)| 🟡 |[Code](./solutions/322.%20Coin%20Change.py)|O(n)|O(n)|<details>DP</details>|
 |17|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| 🟡 |[Code](./solutions/300.%20Longest%20Increasing%20Subsequence.py)|O(n<sup>2</sup>)|O(n)|<details>DP</details>|
 |18|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| 🟡 |[Code](./solutions/1143.%20Longest%20Common%20Subsequence.py)|O(n*m)|O(n*m)|<details>DP</details>|
+|19|[139. Word Break](https://leetcode.com/problems/word-break/)| 🟡 |[Code](./solutions/139.%20Word%20Break.py)|O(n * m)|O(n)|<details>DP</details>|
