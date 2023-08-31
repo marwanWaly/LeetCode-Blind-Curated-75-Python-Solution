@@ -22,3 +22,4 @@
 |17|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| 🟡 |[Code](./solutions/300.%20Longest%20Increasing%20Subsequence.py)|O(n<sup>2</sup>)|O(n)|<details>DP</details>|
 |18|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| 🟡 |[Code](./solutions/1143.%20Longest%20Common%20Subsequence.py)|O(n*m)|O(n*m)|<details>DP</details>|
 |19|[139. Word Break](https://leetcode.com/problems/word-break/)| 🟡 |[Code](./solutions/139.%20Word%20Break.py)|O(n * m)|O(n)|<details>DP</details>|
+|20|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)| 🟡 |[Code](./solutions/39.%20Combination%20Sum.py)|O(2<sup>t</sup>)|O(n)|<details>backtracking</details>|
