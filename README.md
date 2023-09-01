@@ -23,3 +23,4 @@
 |18|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| 🟡 |[Code](./solutions/1143.%20Longest%20Common%20Subsequence.py)|O(n*m)|O(n*m)|<details>DP</details>|
 |19|[139. Word Break](https://leetcode.com/problems/word-break/)| 🟡 |[Code](./solutions/139.%20Word%20Break.py)|O(n * m)|O(n)|<details>DP</details>|
 |20|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)| 🟡 |[Code](./solutions/39.%20Combination%20Sum.py)|O(2<sup>t</sup>)|O(n)|<details>backtracking</details>|
+|21|[198. House Robber](https://leetcode.com/problems/house-robber/)| 🟡 |[Code](./solutions/198.%20House%20Robber.py)|O(n)|O(1)|<details>DP similar to fibonacci</details>|
