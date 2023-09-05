@@ -26,4 +26,5 @@
 |21|[198. House Robber](https://leetcode.com/problems/house-robber/)| 🟡 |[Code](./solutions/198.%20House%20Robber.py)|O(n)|O(1)|<details>DP similar to fibonacci</details>|
 |22|[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)| 🟡 |[Code](./solutions/213.%20House%20Robber%20II.py)|O(n)|O(1)|<details>DP similar to fibonacci</details>|
 |23|[91. Decode Ways](https://leetcode.com/problems/decode-ways/)| 🟡 |[Code](./solutions/91.%20Decode%20Ways.py)|O(n)|O(1)|<details>DP similar to fibonacci</details>|
-|18|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)| 🟡 |[Code](./solutions/62.%20Unique%20Paths.py)|O(n*m)|O(n*m)|<details>DP matrix</details>|
+|24|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)| 🟡 |[Code](./solutions/62.%20Unique%20Paths.py)|O(n*m)|O(n*m)|<details>DP matrix</details>|
+|25|[55. Jump Game](https://leetcode.com/problems/jump-game/)| 🟡 |[Code](./solutions/55.%20Jump%20Game.py)|O(n)|O(1)|<details>don't use DP</details>|
