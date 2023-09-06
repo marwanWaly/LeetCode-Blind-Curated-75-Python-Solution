@@ -4,7 +4,7 @@ class Solution:
         ROWS, COLS = len(heights), len(heights[0])
 
         def dfs(r, c, visit, prev_height):
-            if (r, c) in visit or r < 0 or c < 0 or r == ROWS or c == COLS or heights[r][c] < prev_height:
+            if (r, c) in visit or r not in range(ROWS) or c not in range(COLS) or heights[r][c] < prev_height:
                 return
 
             visit.add((r, c))
@@ -23,4 +23,4 @@ class Solution:
             dfs(0, c, pac, heights[0][c])
             dfs(ROWS - 1, c, alt, heights[ROWS - 1][c])
         
-        return list(alt.intersection(pac))
+        return alt & pac
