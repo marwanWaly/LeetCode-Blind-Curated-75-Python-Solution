@@ -29,3 +29,5 @@
 |24|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)| 🟡 |[Code](./solutions/62.%20Unique%20Paths.py)|O(n*m)|O(n*m)|<details>DP matrix</details>|
 |25|[55. Jump Game](https://leetcode.com/problems/jump-game/)| 🟡 |[Code](./solutions/55.%20Jump%20Game.py)|O(n)|O(1)|<details>don't use DP</details>|
 |26|[133. Clone Graph](https://leetcode.com/problems/clone-graph/)| 🟡 |[Code](./solutions/133.%20Clone%20Graph.py)|O(n)|O(n)|<details>DFS</details>|
+|27|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)| 🟡 |[Code](./solutions/207.%20Course%20Schedule.py)|O(n)|O(n * m)|<details>DFS</details>|
+|28|[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)| 🟡 |[Code](./solutions/417.%20Pacific%20Atlantic%20Water%20Flow.py)|O(n)|O(n)|<details>DFS</details>|
