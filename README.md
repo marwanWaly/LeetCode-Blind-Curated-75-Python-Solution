@@ -31,3 +31,5 @@
 |26|[133. Clone Graph](https://leetcode.com/problems/clone-graph/)| 🟡 |[Code](./solutions/133.%20Clone%20Graph.py)|O(n)|O(n)|<details>DFS</details>|
 |27|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)| 🟡 |[Code](./solutions/207.%20Course%20Schedule.py)|O(n)|O(n * m)|<details>DFS</details>|
 |28|[417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)| 🟡 |[Code](./solutions/417.%20Pacific%20Atlantic%20Water%20Flow.py)|O(n)|O(n)|<details>DFS</details>|
+|29|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| 🟡 |[Code](./solutions/200.%20Number%20of%20Islands.py)|O(n * m)|O(1)|<details>DFS or BFS</details>|
+|30|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| 🟡 |[Code](./solutions/128.%20Longest%20Consecutive%20Sequence.py)|O(n)|O(n)|<details>Hash set</details>|
