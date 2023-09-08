@@ -34,3 +34,4 @@
 |29|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| 🟡 |[Code](./solutions/200.%20Number%20of%20Islands.py)|O(n * m)|O(1)|<details>DFS or BFS</details>|
 |30|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| 🟡 |[Code](./solutions/128.%20Longest%20Consecutive%20Sequence.py)|O(n)|O(n)|<details>Hash set</details>|
 |31|[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)| 🔴 |To Do|O(n*m)|O(n)|<details>Graph and DFS in post order</details>|
+|32|[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)| 🟡 |To Do|O(n)|O(n)|<details>DFS (no loops & all connected)</details>|
