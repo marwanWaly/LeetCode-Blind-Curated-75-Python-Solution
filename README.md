@@ -35,5 +35,5 @@
 |30|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| 🟡 |[Code](./solutions/128.%20Longest%20Consecutive%20Sequence.py)|O(n)|O(n)|<details>Hash set</details>|
 |31|[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)| 🔴 |To Do|O(n*m)|O(n)|<details>Graph and DFS in post order</details>|
 |32|[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)| 🟡 |To Do|O(n)|O(n)|<details>DFS (no loops & all connected)</details>|
-|33|[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)| 🟡 |To Do|O(n)|O(n)|<details>DFS</details>|
+|33|[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)| 🟡 |To Do|O(n)|O(n)|<details>DFS or union find</details>|
 |34|[57. Insert Interval](https://leetcode.com/problems/insert-interval/)| 🟡 |[Code](./solutions/57.%20Insert%20Interval.py)|O(n)|O(1)|<details>one single loop</details>|
