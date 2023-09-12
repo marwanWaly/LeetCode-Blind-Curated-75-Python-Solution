@@ -17,7 +17,7 @@
 |12|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)| 🟢 |[Code](./solutions/338.%20Counting%20Bits.py)|O(n)|O(1)|<details>Use offset</details>|
 |13|[268. Missing Number](https://leetcode.com/problems/missing-number/)| 🟢 |[Code](./solutions/268.%20Missing%20Number.py)|O(n)|O(1)|<details>Use loop to save space</details>|
 |14|[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)| 🟢 |[Code](./solutions/190.%20Reverse%20Bits.py)|O(1)|O(1)|<details>bit operation</details>|
-|15|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| 🟢 |[Code](./solutions/70.%20Climbing%20Stair.py)|O(n)|O(1)|<details>fibonacci</details>|
+|15|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| 🟢 |[Code](./solutions/70.%20Climbing%20Stairs.py)|O(n)|O(1)|<details>fibonacci</details>|
 |16|[322. Coin Change](https://leetcode.com/problems/coin-change/)| 🟡 |[Code](./solutions/322.%20Coin%20Change.py)|O(n)|O(n)|<details>DP</details>|
 |17|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| 🟡 |[Code](./solutions/300.%20Longest%20Increasing%20Subsequence.py)|O(n<sup>2</sup>)|O(n)|<details>DP</details>|
 |18|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| 🟡 |[Code](./solutions/1143.%20Longest%20Common%20Subsequence.py)|O(n*m)|O(n*m)|<details>DP matrix</details>|
