@@ -37,5 +37,7 @@
 |32|[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)| 🟡 |To Do|O(n)|O(n)|<details>DFS (no loops & all connected)</details>|
 |33|[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)| 🟡 |To Do|O(n)|O(n)|<details>DFS or union find</details>|
 |34|[57. Insert Interval](https://leetcode.com/problems/insert-interval/)| 🟡 |[Code](./solutions/57.%20Insert%20Interval.py)|O(n)|O(1)|<details>One single loop</details>|
-|35|[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| 🟡 |[Code](./solutions/56.%20Merge%20Intervals.py)|O(n)|O(1)|<details>Sort then one single loop</details>|
-|36|[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| 🟡 |[Code](./solutions/435.%20Non-overlapping%20Intervals.py)|O(n)|O(1)|<details>Sort then one single loop</details>|
+|35|[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| 🟡 |[Code](./solutions/56.%20Merge%20Intervals.py)|O(nlog(n))|O(1)|<details>Sort then one single loop</details>|
+|36|[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| 🟡 |[Code](./solutions/435.%20Non-overlapping%20Intervals.py)|O(nlog(n)|O(1)|<details>Sort then one single loop</details>|
+|37|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)| 🟢 |To Do|O(nlog(n)|O(1)|<details>Sort then check for any overlap</details>|
+|38|[253. Meeting Rooms](https://leetcode.com/problems/meeting-rooms-ii/)| 🟡 |To Do|O(nlog(n)|O(n)|<details>Sort then two pointers</details>|
