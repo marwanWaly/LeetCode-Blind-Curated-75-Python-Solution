@@ -41,5 +41,7 @@
 |36|[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| 🟡 |[Code](./solutions/435.%20Non-overlapping%20Intervals.py)|O(nlog(n)|O(1)|<details>Sort then one single loop</details>|
 |37|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)| 🟢 |To Do|O(nlog(n)|O(1)|<details>Sort then check for any overlap</details>|
 |38|[253. Meeting Rooms](https://leetcode.com/problems/meeting-rooms-ii/)| 🟡 |To Do|O(nlog(n)|O(n)|<details>Sort then two pointers</details>|
-|39|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list//)| 🟢 |[Code](./solutions/206.%20Reverse%20Linked%20List.py)|O(n)|O(1)|<details>One single loop</details>|
-|40|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle//)| 🟢 |[Code](./solutions/141.%20Linked%20List%20Cycle.py)|O(n)|O(1)|<details>Use slow fast pointers technique</details>|
+|39|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| 🟢 |[Code](./solutions/206.%20Reverse%20Linked%20List.py)|O(n)|O(1)|<details>One single loop</details>|
+|40|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| 🟢 |[Code](./solutions/141.%20Linked%20List%20Cycle.py)|O(n)|O(1)|<details>Use slow fast pointers technique</details>|
+|41|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| 🟢 |[Code](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|O(n)|O(1)|<details>One single loop</details>|
+|42|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| 🔴 |[Code](./solutions/23.%20Merge%20k%20Sorted%20Lists.py)|O(n*m)|O(1)|<details>Convert it to multiple merge two lists or use two loops </details>|
