@@ -45,3 +45,5 @@
 |40|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| 🟢 |[Code](./solutions/141.%20Linked%20List%20Cycle.py)|O(n)|O(1)|<details>Use slow fast pointers technique</details>|
 |41|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| 🟢 |[Code](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|O(n)|O(1)|<details>One single loop</details>|
 |42|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| 🔴 |[Code](./solutions/23.%20Merge%20k%20Sorted%20Lists.py)|O(n*m)|O(1)|<details>Convert it to multiple merge two lists or use two loops </details>|
+|43|[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| 🟡 |[Code](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|O(n)|O(1)|<details>Two pointers (make the distance between left and right = n+1)</details>|
+|44|[143. Reorder List](https://leetcode.com/problems/reorder-list/)| 🟡 |[Code](./solutions/143.%20Reorder%20List.py)|O(n)|O(n)|<details>you can do it without using extra memory (split, reverse second, then merge)</details>|
