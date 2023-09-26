@@ -49,3 +49,5 @@
 |44|[143. Reorder List](https://leetcode.com/problems/reorder-list/)| 🟡 |[Code](./solutions/143.%20Reorder%20List.py)|O(n)|O(n)|<details>you can do it without using extra memory (split, reverse second, then merge)</details>|
 |45|[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| 🟡 |[Code](./solutions/73.%20Set%20Matrix%20Zeroes.py)|O(n*m)|O(m)|<details>when zero found update row and save column to update it later</details>|
 |46|[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| 🟡 |[Code](./solutions/54.%20Spiral%20Matrix.py)|O(n*m)|O(n*m)|<details>it can be solved in O(1) M</details>|
+|47|[48. Rotate Image](https://leetcode.com/problems/rotate-image/)| 🟡 |[Code](./solutions/48.%20Rotate%20Image.py)|O(n<sup>2</sup>)|O(1)|<details>Transpose then reverse each row</details>|
+|48|[79. Word Search](https://leetcode.com/problems/word-search/)| 🟡 |[Code](./solutions/79.%20Word%20Search.py)|O(4<sup>n</sup>)|O(1)|<details>DFS</details>|
