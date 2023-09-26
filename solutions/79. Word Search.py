@@ -8,7 +8,7 @@ class Solution:
             if i == len(word):
                 return True
 
-            if r not in range(ROWS) or c not in range(COLS) or (r, c) in path or board[r][c] != word[i]:
+            if r < 0 or c < 0 or r >= ROWS or c >= COLS or (r, c) in path or board[r][c] != word[i]:
                 return False
 
             path.add((r, c))
@@ -22,6 +22,6 @@ class Solution:
         
         for r in range(ROWS):
             for c in range(COLS):
-                if dfs(r, c, 0): return True
+                if board[r][c] == word[0] and dfs(r, c, 0): return True
 
         return False
