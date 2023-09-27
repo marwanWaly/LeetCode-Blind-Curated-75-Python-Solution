@@ -51,3 +51,5 @@
 |46|[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| 🟡 |[Code](./solutions/54.%20Spiral%20Matrix.py)|O(n*m)|O(n*m)|<details>it can be solved in O(1) M</details>|
 |47|[48. Rotate Image](https://leetcode.com/problems/rotate-image/)| 🟡 |[Code](./solutions/48.%20Rotate%20Image.py)|O(n<sup>2</sup>)|O(1)|<details>Transpose then reverse each row</details>|
 |48|[79. Word Search](https://leetcode.com/problems/word-search/)| 🟡 |[Code](./solutions/79.%20Word%20Search.py)|O(4<sup>n</sup>)|O(1)|<details>DFS</details>|
+|49|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| 🟡 |[Code](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py)|O(n)|O(n)|<details>Two pointers and hash map</details>|
+|50|[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| 🟡 |[Code](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.py)|O(n)|O(n)|<details>Sliding window</details>|
