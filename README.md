@@ -55,3 +55,5 @@
 |50|[424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| 🟡 |[Code](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.py)|O(n)|O(n)|<details>Sliding window</details>|
 |51|[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| 🔴 |[Code](./solutions/76.%20Minimum%20Window%20Substring.py)|O(n)|O(n+m)|<details>Sliding window</details>|
 |52|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)| 🟡 |[Code](./solutions/49.%20Group%20Anagrams.py)|O(m*n)|O(n)|<details>Count chars of each word and use tuple to save the list as a key</details>|
+|53|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| 🟢 |[Code](./solutions/20.%20Valid%20Parentheses.py)|O(n)|O(1)|<details>Use stack</details>|
+|54|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| 🟢 |[Code](./solutions/125.%20Valid%20Palindrome.py)|O(n)|O(1)|<details>Two pointers</details>|
