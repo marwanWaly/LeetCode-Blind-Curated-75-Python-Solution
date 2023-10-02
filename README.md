@@ -59,3 +59,5 @@
 |54|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| 🟢 |[Code](./solutions/125.%20Valid%20Palindrome.py)|O(n)|O(1)|<details>Two pointers</details>|
 |55|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| 🟡 |[Code](./solutions/5.%20Longest%20Palindromic%20Substring.py)|O(n<sup>2</sup>)|O(1)|<details>Two pointers expanding from each char (even, odd)</details>|
 |56|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)| 🟡 |[Code](./solutions/647.%20Palindromic%20Substrings.py)|O(n<sup>2</sup>)|O(1)|<details>Two pointers expanding from each char (even, odd)</details>|
+|57|[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)| 🟡 |To Do|O(n>)|O(1)|<details></details>|
+|58|[104. Maximum Depth of Binary Trees](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| 🟢 |[Code](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|O(n)|O(1)|<details>DFS or BFS</details>|
