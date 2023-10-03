@@ -61,3 +61,5 @@
 |56|[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)| 🟡 |[Code](./solutions/647.%20Palindromic%20Substrings.py)|O(n<sup>2</sup>)|O(1)|<details>Two pointers expanding from each char (even, odd)</details>|
 |57|[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)| 🟡 |To Do|O(n)|O(1)|<details></details>|
 |58|[104. Maximum Depth of Binary Trees](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| 🟢 |[Code](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|O(n)|O(1)|<details>DFS or BFS</details>|
+|59|[100. Same Tree](https://leetcode.com/problems/same-tree/)| 🟢 |[Code](./solutions/100.%20Same%20Tree.py)|O(n)|O(1)|<details>DFS</details>|
+|60|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| 🟢 |[Code](./solutions/226.%20Invert%20Binary%20Tree.py)|O(n)|O(1)|<details>DFS</details>|
