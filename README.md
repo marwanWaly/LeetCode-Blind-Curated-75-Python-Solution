@@ -63,3 +63,5 @@
 |58|[104. Maximum Depth of Binary Trees](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| 🟢 |[Code](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|O(n)|O(1)|<details>DFS or BFS</details>|
 |59|[100. Same Tree](https://leetcode.com/problems/same-tree/)| 🟢 |[Code](./solutions/100.%20Same%20Tree.py)|O(n)|O(1)|<details>DFS</details>|
 |60|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| 🟢 |[Code](./solutions/226.%20Invert%20Binary%20Tree.py)|O(n)|O(1)|<details>DFS</details>|
+|61|[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| 🔴 |[Code](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.py)|O(n)|O(1)|<details>DFS</details>|
+|62|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| 🟡 |[Code](./solutions/102.%20Binary%20Tree%21Level%20Order%20Traversal.py)|O(n)|O(1)|<details>BFS</details>|
