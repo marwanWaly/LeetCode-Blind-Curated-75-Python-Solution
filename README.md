@@ -75,3 +75,6 @@
 |70|[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| 🟡 |[Code](./solutions/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py)|O(n)|O(average key length * n)|<details>Iterative way</details>|
 |71|[212. Word Search II](https://leetcode.com/problems/word-search-ii/)| 🔴 |[Code](./solutions/212.%20Word%20Search%20II.py)|O(n*m)|O(average key length * n)|<details>Prefix tree and DFS</details>|
 |72|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| 🟡 |[Code](./solutions/347.%20Top%20K%20Frequent%20Elements.py)|O(n)|O(n)|<details>Without dict and sorting</details>|
+|73|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| 🔴 |[Code](./solutions/295.%20Find%20Median%20from%20Data%20Stream.py)|O(nlog(n))|O(n)|<details>Max heap and Min heap</details>|
+|74|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| 🟢 |[Code](./solutions/242.%20Valid%20Anagram.py)|O(n)|O(n)|<details>Hash map to count chars to save time or sort it to save memory</details>|
+|75|[371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| 🟡 |[Code](./solutions/371.%20Sum%20of%20Two%20Integers.py)|O(?)|O(1)|<details>XOR + AND operation (use mske for Python solution)</details>|
