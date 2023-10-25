@@ -1,4 +1,5 @@
 # LeetCode-Blind-Curated-75-Python-Solution
+Leetcode Blind 75 problems solved in Python for interview preparation.
 # [Leetcode](https://leetcode.com/)
 
 | # | Title | Level | Solution | Time Complexity | Space Complexity | Hint |
